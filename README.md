@@ -14,7 +14,6 @@ This project focuses on reconstructing a limit order book from order messages an
 - [Output Files](#output-files)
 - [Scripts](#scripts)
 - [Contact](#contact)
-- [License](#license)
 
 ## Folder Structure
 
